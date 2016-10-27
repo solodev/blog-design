@@ -146,7 +146,6 @@ img.blog-inner {
 }
 
 header > .inner {
-    display: table-cell;
     vertical-align: middle;
     width: 100%;
 }
